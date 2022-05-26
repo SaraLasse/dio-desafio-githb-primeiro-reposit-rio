@@ -1,4 +1,4 @@
-# dio-desafio-githb-primeiro-reposit-rio
+# DIO DESAFIO DE PROJETO GIT/GITHUB
 Desafio de Projeto sobre Git/GitHub
 Repositório criado para o desafio de projeto
 
